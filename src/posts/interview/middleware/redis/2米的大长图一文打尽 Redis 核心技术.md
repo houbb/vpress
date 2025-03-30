@@ -29,18 +29,3 @@ title: Redis 大长图一文打尽 Redis 核心技术，并配有每个知识点
 </div>
 
 原思维导图太大了，页面加载非常卡，这里只能放个缩略图。
-
-想要高清原图的请私聊 老马 微信（chixuegao1234） ，一起牛逼
-
-
-<div align="left">
-    <img src="/images/about/me/老马微信.jpg" width="300px">
-</div>
-
-
-
-
-
-
-
-
