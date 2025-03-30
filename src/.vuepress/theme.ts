@@ -43,7 +43,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "我是老马，期待与你的下次重逢",
 
       displayFooter: true,
 
@@ -67,7 +67,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "我是老马，期待与你的下次重逢",
 
       displayFooter: true,
 
